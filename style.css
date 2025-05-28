@@ -1,0 +1,63 @@
+p.brand {
+  color: brown;
+  font-size: 24px;
+}
+.navigation {
+  display: flex;
+  gap: 1ch;
+}
+
+aside {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  width: 125px;
+  margin: ;
+  text-align: center;
+  line-height: 35px;
+  font-size: 20px;
+  padding: 20px;
+}
+
+ul {
+  background-color: #9caf88;
+  display: flex;
+  flex-direction: column;
+}
+
+.flexchild {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li {
+  color: brown;
+  font-weight: bold;
+}
+
+.main {
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+main {
+  display: flex;
+}
+.testimonial {
+  background-color: aqua;
+}
+footer {
+  background-color: beige;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+}
+
+/*article {
+display: flex;
+text-align: center;
+flex-wrap: wrap;
+}*/
