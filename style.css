@@ -1,5 +1,5 @@
 p.brand {
-  color: brown;
+  color: #854200;
   font-size: 24px;
 }
 .navigation {
@@ -12,7 +12,6 @@ aside {
   flex-wrap: nowrap;
   flex-direction: column;
   width: 125px;
-  margin: ;
   text-align: center;
   line-height: 35px;
   font-size: 20px;
@@ -20,7 +19,6 @@ aside {
 }
 
 ul {
-  background-color: #9caf88;
   display: flex;
   flex-direction: column;
 }
@@ -32,8 +30,10 @@ ul {
 }
 
 li {
-  color: brown;
+  color: white;
   font-weight: bold;
+  border: 2px solid;
+  background-color: #8b0000;
 }
 
 .main {
@@ -45,7 +45,7 @@ main {
   display: flex;
 }
 .testimonial {
-  background-color: aqua;
+  background-color: beige;
 }
 footer {
   background-color: beige;
