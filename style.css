@@ -1,6 +1,6 @@
 p.brand {
   color: #854200;
-  font-size: 24px;
+  font-size: 30px;
 }
 .navigation {
   display: flex;
@@ -32,7 +32,7 @@ ul {
 li {
   color: white;
   font-weight: bold;
-  border: 2px solid;
+  border: 3px solid;
   background-color: #8b0000;
 }
 
